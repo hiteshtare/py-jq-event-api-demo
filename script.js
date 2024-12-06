@@ -87,14 +87,30 @@ result.forEach((obj) => {
 
     let colSchedule = ``;
     let tableRow = ``;
-    obj.schedule.forEach((item,index) => {
+    obj.schedule.forEach((item, index) => {
+        const startTimeStr = new Date(item.schedule_starttime).toLocaleString(
+            "en-US",
+            {
+                hour: "numeric",
+                minute: "numeric",
+                hour12: true,
+            }
+        );
+        const endTimeStr = new Date(item.schedule_endtime).toLocaleString(
+            "en-US",
+            {
+                hour: "numeric",
+                minute: "numeric",
+                hour12: true,
+            }
+        );
 
         colSchedule = `<td style="vertical-align: middle !important">
-        <p style="text-align: center">${item.schedule_starttime} to ${item.schedule_endtime}</p>
+        <p style="text-align: center">${startTimeStr} to ${endTimeStr}</p>
 
         <p style="text-align: center">${item.schedule_name}</p>
         </td>`;
-        if(index == 0) {
+        if (index == 0) {
             tableRow = `<tr>${colImage}${colDate}${colTitle}${colSchedule}</tr>`;
         }
         else {
