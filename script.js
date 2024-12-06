@@ -83,7 +83,7 @@ var tableStr = '';
 result.forEach((obj) => {
     const colImage = `<td rowspan="${obj.schedule.length}"><img class="heroimage" src="${obj.event_image}"></img></td>`;
     const colDate = `<td rowspan="${obj.schedule.length}">${obj.event_date}</td>`;
-    const colTitle = `<td rowspan="${obj.schedule.length}">${obj.event_title}</td>`;
+    const colTitle = `<td rowspan="${obj.schedule.length}"><b>${obj.event_title}</b></td>`;
 
     let colSchedule = ``;
     let tableRow = ``;
@@ -108,7 +108,7 @@ result.forEach((obj) => {
         colSchedule = `<td style="vertical-align: middle !important">
         <p style="text-align: center">${startTimeStr} to ${endTimeStr}</p>
 
-        <p style="text-align: center">${item.schedule_name}</p>
+        <p style="text-align: center"><i>${item.schedule_name}</i></p>
         </td>`;
         if (index == 0) {
             tableRow = `<tr>${colImage}${colDate}${colTitle}${colSchedule}</tr>`;
