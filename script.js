@@ -79,38 +79,6 @@ var result = [
     }
 ];
 
-var data = [{
-    "user_data": [{
-        "amount": 2550,
-        "time1": "2017/04/05",
-        "time2": "2017/04/06"
-    }, {
-        "amount": 2550,
-        "time1": "2017/04/05",
-        "time2": "2017/04/06"
-    }],
-    "name": "hulk"
-}, {
-    "user_data": [{
-        "amount": 2125,
-        "time1": "2017/04/05",
-        "time2": "2017/04/06"
-    }, {
-        "amount": 1700,
-        "time1": "2017/04/05",
-        "time2": "2017/04/06"
-    }, {
-        "amount": 1700,
-        "time1": "2017/04/05",
-        "time2": "2017/04/06"
-    }, {
-        "amount": 2125,
-        "time1": "2017/04/05",
-        "time2": "2017/04/06"
-    }],
-    "name": "gomu"
-}];
-
 var tableStr = '';
 result.forEach((obj) => {
     const colImage = `<td rowspan="${obj.schedule.length}"><img class="heroimage" src="${obj.event_image}"></img></td>`;
