@@ -1,8 +1,13 @@
-table { 
-  border-collapse: collapse;
+body {
+  background-color: grey;
 }
 
-td {
+table { 
+  border-collapse: collapse;
+  background-color: #FAFBFC;
+}
+
+th,td {
 padding: 20px; 
 border: 1px solid black; 
 text-align: center;
