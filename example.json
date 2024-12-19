@@ -2,29 +2,26 @@
     {
         "event_id": 2,
         "event_title": "Christmas",
-        "event_date": "2024-12-25",
+        "event_date": "25 Dec 2024",
         "event_desc": "Merry Christmas",
         "event_image": "https://yssofindia.org/wp-content/uploads/2024/09/Jesus-Christ-Featured-Image-Ranchi-Ashram-Homepage-Events-Section-300x300.jpg",
         "schedule": [
             {
                 "schedule_id": 1,
-                "schedule_date": "2024-12-25",
-                "schedule_starttime": "2024-01-05T06:30:00+05:30",
-                "schedule_endtime": "2024-01-05T08:00:00+05:30",
+                "schedule_date": "25 Dec 2024",
+                "schedule_time": "6:30 AM to 8:00 AM",
                 "schedule_name": "Morning Meditation"
             },
             {
                 "schedule_id": 2,
-                "schedule_date": "2024-12-25",
-                "schedule_starttime": "2024-01-05T09:30:00+05:30",
-                "schedule_endtime": "2024-01-05T11:30:00+05:30",
+                "schedule_date": "25 Dec 2024",
+                "schedule_time": "9:30 AM to 11:30 AM",
                 "schedule_name": "Guru Puja"
             },
             {
                 "schedule_id": 3,
-                "schedule_date": "2024-12-25",
-                "schedule_starttime": "2024-01-05T18:00:00+05:30",
-                "schedule_endtime": "2024-01-05T21:00:00+05:30",
+                "schedule_date": "25 Dec 2024",
+                "schedule_time": "6:00 PM to 9:00 PM",
                 "schedule_name": "Evening Meditation"
             }
         ]
@@ -32,15 +29,14 @@
     {
         "event_id": 3,
         "event_title": "New Years Eve",
-        "event_date": "2024-12-31",
+        "event_date": "31 Dec 2024",
         "event_desc": "Happy New Year",
         "event_image": "https://yssofindia.org/wp-content/uploads/2024/09/Christmas-Commemorations-at-YSS-Ashrams-Jesus-Christ-Featured-Image-Additional-300x300.jpg",
         "schedule": [
             {
                 "schedule_id": 1,
-                "schedule_date": "2024-12-31",
-                "schedule_starttime": "2024-12-31T23:30:00+05:30",
-                "schedule_endtime": "2025-01-01T00:30:00+05:30",
+                "schedule_date": "31 Dec 2024",
+                "schedule_time": "11:30 PM to 12:30 AM",
                 "schedule_name": "Special New Years Eve Meditation",
                 "colspan": 1,
                 "rowspan": 1
@@ -50,24 +46,22 @@
     {
         "event_id": 5,
         "event_title": "Gurudeva’s Janmotsav",
-        "event_date": "2025-01-05",
+        "event_date": "5 Jan 2025",
         "event_desc": "The celebrations of the 124th Birth Anniversary of Sri Sri Paramahansa Yogananda (1893-1952), author of the spiritual classic ‘Autobiography of a Yogi’, and the centenary of the Yogoda Satsanga Society of India (YSS) took place on 5th Jan in Ranchi",
         "event_image": "https://yssofindia.org/wp-content/uploads/2024/09/Paramahansa-Yogananda-Standard-Image-Ranchi-Ashram-Homepage-Events-Section-300x300.jpg",
         "schedule": [
             {
                 "schedule_id": 1,
-                "schedule_date": "2025-01-05",
-                "schedule_starttime": "2025-01-05T06:40:00+05:30",
-                "schedule_endtime": "2025-01-05T08:00:00+05:30",
+                "schedule_date": "5 Jan 2025",
+                "schedule_time": "6:40 AM to 8:00 AM",
                 "schedule_name": "Morning Meditation",
                 "colspan": 1,
                 "rowspan": 2
             },
             {
                 "schedule_id": 2,
-                "schedule_date": "2025-01-05",
-                "schedule_starttime": "2025-01-05T18:00:00+05:30",
-                "schedule_endtime": "2025-01-05T19:40:00+05:30",
+                "schedule_date": "5 Jan 2025",
+                "schedule_time": "6:00 PM to 7:40 PM",
                 "schedule_name": "Evening Meditation",
                 "colspan": 1,
                 "rowspan": 2
