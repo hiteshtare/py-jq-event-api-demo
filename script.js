@@ -1,5 +1,5 @@
 console.warn('Jai Guru - Thanks PY!');
-const url = './example.json';
+const url = './example_curated.json';
 var result = [];
 
 fetch(url)
