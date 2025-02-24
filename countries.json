@@ -1,0 +1,52 @@
+[
+  {
+    "state": "Alabama",
+    "country": "USA",
+    "is_spiritual": false
+  },
+  {
+    "state": "California",
+    "country": "USA",
+    "is_spiritual": false
+  },
+  {
+    "state": "Oregon",
+    "country": "USA",
+    "is_spiritual": false
+  },
+  {
+    "state": "Texas",
+    "country": "USA",
+    "is_spiritual": false
+  },
+  {
+    "state": "Michigan",
+    "country": "USA",
+    "is_spiritual": false
+  },
+  {
+    "state": "Kansas",
+    "country": "USA",
+    "is_spiritual": false
+  },
+  {
+    "state": "Maharashtra",
+    "country": "India",
+    "is_spiritual": true
+  },
+  {
+    "state": "Gujarat",
+    "country": "India",
+    "is_spiritual": true
+  },
+  {
+    "state": "Jharkhand",
+    "country": "India",
+    "is_spiritual": true
+  },
+  {
+    "state": "Karnataka",
+    "country": "India",
+    "is_spiritual": true
+  }
+]
