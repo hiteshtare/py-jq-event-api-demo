@@ -2,51 +2,51 @@
   {
     "state": "Alabama",
     "country": "USA",
-    "is_spiritual": false
+    "has_tricolor_flag": false
   },
   {
     "state": "California",
     "country": "USA",
-    "is_spiritual": false
+    "has_tricolor_flag": false
   },
   {
     "state": "Oregon",
     "country": "USA",
-    "is_spiritual": false
+    "has_tricolor_flag": false
   },
   {
     "state": "Texas",
     "country": "USA",
-    "is_spiritual": false
+    "has_tricolor_flag": false
   },
   {
     "state": "Michigan",
     "country": "USA",
-    "is_spiritual": false
+    "has_tricolor_flag": false
   },
   {
     "state": "Kansas",
     "country": "USA",
-    "is_spiritual": false
+    "has_tricolor_flag": false
   },
   {
     "state": "Maharashtra",
     "country": "India",
-    "is_spiritual": true
+    "has_tricolor_flag": true
   },
   {
     "state": "Gujarat",
     "country": "India",
-    "is_spiritual": true
+    "has_tricolor_flag": true
   },
   {
     "state": "Jharkhand",
     "country": "India",
-    "is_spiritual": true
+    "has_tricolor_flag": true
   },
   {
     "state": "Karnataka",
     "country": "India",
-    "is_spiritual": true
+    "has_tricolor_flag": true
   }
 ]
